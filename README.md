@@ -51,7 +51,7 @@ Listing specific steps helps remove ambiguity and gets people to using your proj
 
 > Running docker:
 
-	run tests
+	docker-compose up
 
 
 ### Deploying (if applicable)
