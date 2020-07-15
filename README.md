@@ -17,9 +17,19 @@ Listing specific steps helps remove ambiguity and gets people to using your proj
 - E.g PostgreSQL
 - E.g Node version `x.x.x`
 
-### Installing
+### Installing 
 
-### Configuring
+Running the Database setup:
+
+	command install
+
+
+### Configuring (if applicable)
+
+Running the Database setup:
+
+	run server
+
 
 
 ### Running
@@ -32,7 +42,7 @@ Running tests:
 
 	run tests
 
-### Deploying 
+### Deploying (if applicable)
 Explain how the deploy is done and who needs to be contact for further information.
 
 ## Contributing 🤝
@@ -54,5 +64,5 @@ For open source projects, say how it is licensed.
 
 ## Useful Links / References (if applicable)
 - [Reference 1](https://link.com)
-- [Reference 2](https://link.com)
+- [Readme Best Practices](https://github.com/jehna/readme-best-practices#readme)
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme)
