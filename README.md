@@ -4,8 +4,7 @@
 
 > one-line that briefy describes what this project is about
 
-What is this project about? Adds a description about this project, describe what it does.
-E.g. This is a README template that you can copy-paste your README.md from and use on yout projects.
+What is this project about? Adds a description about this project, describe what it does. E.g., This is a README template that you can copy-paste your README.md from and use on your projects.
 
 ***
 
@@ -20,36 +19,36 @@ Listing specific steps helps remove ambiguity and gets people to using your proj
 
 ### Installing 
 
-> Install project's dependences:
+Install project's dependences:
 
 	command install
 
-> Install gems:
+Install gems:
 
 	bundle install
 
-> Install javascript depedences:
+Install javascript depedences:
 
 	npm install
 
 ### Configuring (if applicable)
 
-> Database setup:
+Database setup:
 
 	command to setup
 
 
 ### Running
 
-> Running the server:
+Running the server:
 
 	run server
 
-> Running tests:
+Running tests:
 
 	run tests
 
-> Running docker:
+Running docker:
 
 	docker-compose up
 
