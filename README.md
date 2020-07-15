@@ -9,34 +9,33 @@ E.g. This is a README template that you can copy-paste your README.md from and u
 
 ***
 
-## Getting Started
+## Getting Started ▶️
 Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible.
 
 ### Dependencies / Requirements
 - E.g Ruby version `2.6.3`
 - E.g PostgreSQL
+- E.g Node version `x.x.x`
 
-### Installing it
+### Installing
 
-### Configuring it
+### Configuring
 
 
-### Running it
-
+### Running
 
 Running the server:
 
 	run server
 
-
 Running tests:
 
 	run tests
 
-### Deploying it 
+### Deploying 
 Explain how the deploy is done and who needs to be contact for further information.
 
-## Contributing
+## Contributing 🤝
 Tell how people can contribute with this project, you can mention:
 - Contributor Guidelines
 - Code Style/Requirements
@@ -47,7 +46,7 @@ E.g. Pull requests are welcome. For major changes, please open an issue first to
 ## Feedback & Contact ✨
 Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
-## License (if applicable)
+## License (if applicable) 📝
 For open source projects, say how it is licensed.
 - This project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
 - This project is licensed under [Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/)
