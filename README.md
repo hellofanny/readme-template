@@ -36,7 +36,7 @@ Tell how people can contribute with this project, you can mention:
 - Code Style/Requirements
 - Format for commit messages
 
-E.g. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For minor changes, please fork this repository, make the changes and submit your pull request.
+E.g. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For minor changes, please fork this repository, make the changes and submit your pull request with comprehensive description of changes.
 
 ## License (optional)
 For open source projects, say how it is licensed.
