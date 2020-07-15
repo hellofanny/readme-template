@@ -1,9 +1,13 @@
 # Project's Name
 
-(You can add project's logo here if you want.)
+(You can also add project's logo here if you want)
 
-> What is this project about? Adds a description about this project, short blurb about what it does.
+> one-liner that briefy describes what this project is about
 
+What is this project about? Adds a description about this project, describe what it does.
+E.g. This is a README template that you can copy-paste your README.md from and use on yout projects.
+
+***
 
 ## Installation
 
@@ -23,10 +27,24 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Feedback & Contact ✨
+Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
-Please make sure to update tests as appropriate.
+## Contributing (optional)
+Tell how people can contribute with this project, you can mention:
+- Contributor Guidelines
+- Code Style/Requirements
+- Format for commit messages
+
+E.g. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For minor changes, please fork this repository, make the changes and submit your pull request.
 
 ## License (optional)
-[MIT](https://choosealicense.com/licenses/mit/)
+For open source projects, say how it is licensed.
+- This project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+- This project is licensed under [Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/)
+- This project is licensed under Unlicense license. This license does not require you to take the license with you to your project.
+
+## Useful Links / References (optional)
+- [Reference 1](https://link.com)
+- [Reference 2](https://link.com)
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme)
