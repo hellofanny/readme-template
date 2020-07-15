@@ -27,10 +27,19 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
+## Getting Started
+
+### Dependencies / Requirements
+
+### Getting it
+### Installing it
+### Configuring it
+### Running it
+
 ## Feedback & Contact ✨
 Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
-## Contributing (optional)
+## Contributing (if applicable)
 Tell how people can contribute with this project, you can mention:
 - Contributor Guidelines
 - Code Style/Requirements
@@ -38,13 +47,13 @@ Tell how people can contribute with this project, you can mention:
 
 E.g. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For minor changes, please fork this repository, make the changes and submit your pull request with comprehensive description of changes.
 
-## License (optional)
+## License (if applicable)
 For open source projects, say how it is licensed.
 - This project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
 - This project is licensed under [Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/)
 - This project is licensed under Unlicense license. This license does not require you to take the license with you to your project.
 
-## Useful Links / References (optional)
+## Useful Links / References (if applicable)
 - [Reference 1](https://link.com)
 - [Reference 2](https://link.com)
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme)
