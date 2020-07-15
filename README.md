@@ -2,7 +2,7 @@
 
 (You can also add project's logo here if you want)
 
-> one-liner that briefy describes what this project is about
+> one-line that briefy describes what this project is about
 
 What is this project about? Adds a description about this project, describe what it does.
 E.g. This is a README template that you can copy-paste your README.md from and use on yout projects.
@@ -16,20 +16,27 @@ Listing specific steps helps remove ambiguity and gets people to using your proj
 - E.g Ruby version `2.6.3`
 - E.g PostgreSQL
 - E.g Node version `x.x.x`
+- Docker
 
 ### Installing 
 
-Running the Database setup:
+Install project's dependences:
 
 	command install
 
+Install gems:
+
+	bundle install
+
+Install javascript depedences:
+
+	npm install
 
 ### Configuring (if applicable)
 
-Running the Database setup:
+Database setup:
 
-	run server
-
+	command to setup
 
 
 ### Running
@@ -41,6 +48,11 @@ Running the server:
 Running tests:
 
 	run tests
+
+Running docker:
+
+	run tests
+
 
 ### Deploying (if applicable)
 Explain how the deploy is done and who needs to be contact for further information.
@@ -63,6 +75,6 @@ For open source projects, say how it is licensed.
 - This project is licensed under Unlicense license. This license does not require you to take the license with you to your project.
 
 ## Useful Links / References (if applicable)
-- [Reference 1](https://link.com)
+- [README 101](https://www.makeareadme.com)
 - [Readme Best Practices](https://github.com/jehna/readme-best-practices#readme)
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme)
