@@ -9,43 +9,43 @@ E.g. This is a README template that you can copy-paste your README.md from and u
 
 ***
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
 ## Getting Started
+Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible.
 
 ### Dependencies / Requirements
+- E.g Ruby version `2.6.3`
+- E.g PostgreSQL
 
-### Getting it
 ### Installing it
+
 ### Configuring it
+
+
 ### Running it
 
-## Feedback & Contact ✨
-Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
-## Contributing (if applicable)
+Running the server:
+
+	run server
+
+
+Running tests:
+
+	run tests
+
+### Deploying it 
+Explain how the deploy is done and who needs to be contact for further information.
+
+## Contributing
 Tell how people can contribute with this project, you can mention:
 - Contributor Guidelines
 - Code Style/Requirements
 - Format for commit messages
 
 E.g. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For minor changes, please fork this repository, make the changes and submit your pull request with comprehensive description of changes.
+
+## Feedback & Contact ✨
+Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
 ## License (if applicable)
 For open source projects, say how it is licensed.
