@@ -56,7 +56,7 @@ Running docker:
 ### Deploying (if applicable)
 Explain how the deploy is done and who needs to be contact for further information.
 
-## Roadmap 🛤 (if applicable)
+## Roadmap 🛣 (if applicable)
 List ideas for next steps, you can list missing features, improvements ideas...
 
 ## Contributing 🤝
