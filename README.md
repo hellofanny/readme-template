@@ -56,6 +56,9 @@ Running docker:
 ### Deploying (if applicable)
 Explain how the deploy is done and who needs to be contact for further information.
 
+## Roadmap 🛤 (if applicable)
+List ideas for next steps, you can list missing features, improvements ideas...
+
 ## Contributing 🤝
 Tell how people can contribute with this project, you can mention:
 - Contributor Guidelines
@@ -67,13 +70,13 @@ E.g. Pull requests are welcome. For major changes, please open an issue first to
 ## Feedback & Contact ✨
 Tell people where they can go to for help, or to ask further questions or give feedback in general. Add contact e-mail.
 
-## License (if applicable) 📝
+## License 📝 (if applicable) 
 For open source projects, say how it is licensed.
 - This project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
 - This project is licensed under [Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/)
 - This project is licensed under Unlicense license. This license does not require you to take the license with you to your project.
 
-## Useful Links / References (if applicable)
+## Useful Links / References 🤓 (if applicable) 
 - [README 101](https://www.makeareadme.com)
 - [Readme Best Practices](https://github.com/jehna/readme-best-practices#readme)
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme)
